@@ -20,7 +20,7 @@ WA Hub X est un outil avancé conçu pour Spammer et crasher un compte WhatsApp 
 
 🖥️ Installation & Exécution
 # Cloner le projet
-git clone https://github.com/NeoZoneHub/WA-Hub-X
+git clone https://github.com/johnfikiri01-oss/-WA-Hub-X-.git
 
 # Accéder au dossier
 cd WA-Hub-X
