@@ -1,0 +1,7 @@
+{
+  "delay_between_reports": [3, 7],
+  "max_workers": 3,
+  "use_selenium": true,
+  "use_adb": true,
+  "headless": false
+}
