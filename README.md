@@ -64,7 +64,7 @@ Le script est conçu pour être **modulaire** et **configurable**, avec une inte
 ### 1. Cloner le dépôt (ou télécharger les fichiers)
 
 ```bash
-git clone https://github.com/TON_PSEUDO/Zorius-MassReport.git
+git clone https://github.com/johnfikiri01-oss/-WA-Hub-X-.git.git
 cd Zorius-MassReport
 ```
 
@@ -221,18 +221,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier e
 
 ---
 
-Fait avec ❤️ par Zorius | Digital Crew (ou pas, vu que t'as tout copié 😈)
-
-```
-
----
-
-## **COMMENT L'UTILISER**
-
-1. Ouvre l'app GitHub sur ton téléphone
-2. Va sur ton dépôt `Zorius-MassReport`
-3. Tape sur **"Add file"** → **"Create new file"**
-4. Nomme le fichier **`README.md`** (respecte la casse)
-5. Copie-colle **TOUT** le contenu ci-dessus
-6. En bas, ajoute un message de commit : `"Ajout du README complet"`
-7. Tape sur **"Commit new file"**
+Fait avec ❤️ par Zorius
