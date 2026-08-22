@@ -64,7 +64,7 @@ Le script est conçu pour être **modulaire** et **configurable**, avec une inte
 ### 1. Cloner le dépôt (ou télécharger les fichiers)
 
 ```bash
-git clone https://github.com/johnfikiri01-oss/-WA-Hub-X-.git.git
+git clone https://github.com/johnfikiri01-oss/-WA-Hub-X-.git
 cd Zorius-MassReport
 ```
 
